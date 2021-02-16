@@ -94,5 +94,58 @@ mark{
 	display: inline;
 }
 
+.head1{
+	margin-bottom: 120px;
+}
+.head2{
+	margin-bottom: 268px;
+}
+.head3{
+	margin-bottom: 50px;
+}
+.head4{
+	margin-bottom: 183px;
+}
+.head5{
+	margin-bottom: 132px;
+}
 
+.col2{
+	columns: 2;
+}
+.col3{
+	columns: 3;
+}
 
+.pSummary{
+	text-indent: 50px; 
+	text-align: justify;
+}
+
+.expert{
+	background-color:green;
+}
+
+.competent{
+	background-color:yellow; color: black;
+}
+
+.aBeginner{
+	background-color:brown;
+}
+
+.ex{
+	background-color: green; color: green;
+}
+
+.comp{
+	background-color: yellow; color: yellow;
+}
+
+.aBeg{
+	background-color: brown; color: brown;
+}
+
+.legends{
+	text-align: right; font-size: 10px;
+}
